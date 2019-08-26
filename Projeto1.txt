@@ -1,0 +1,24 @@
+CienDados - SADC : PIB
+
+P: Os países que entraram no SADC em 1992 tiveram um aumento no seu PIB superior 
+aos países <da África> que não entraram?
+
+África do Sul
+Angola
+Botswana
+República Democrática do Congo
+Lesoto
+Madagascar
+Malaui
+Maurícia 
+Moçambique
+Namíbia
+Suazilândia
+Tanzânia
+Zâmbia
+Zimbábue
+
+>> Somar PIB dos paises da Af Aus antes de 1992 (1971 - 1991) e após (1992 - 2012)
+e ver qual foi a porcentagem de crescimento, e fazer o mesmo processo para os países
+da África que não são da Af Aus e ver o crescimento deles. 
+
