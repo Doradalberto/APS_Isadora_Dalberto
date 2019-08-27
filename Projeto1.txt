@@ -22,3 +22,27 @@ Zimbábue
 e ver qual foi a porcentagem de crescimento, e fazer o mesmo processo para os países
 da África que não são da Af Aus e ver o crescimento deles. 
 
+
+> indicou referência que permite pensar que o mecanismo é crível? <<<<< ???
+  > indicou base de dados?
+> vai além do plot de séries temporais?
+> tem indicadorees que possa cruzar entre si?
+> já fez join das tabelas dos indicadores?
+
+Comentários:
+- Desenvolver melhor o mecanismo: Explique melhor os incentivos dados pela 
+    organização que possam afetar a economia do país; Descreva quais indicadores 
+    serão considerados para a análise;
+- Procure fontes que te ajudem a embasar sua hipótese;
+- Explique melhor qual será sua extratégia de análise;
+- Descreva o grupo de controle. Quais países estão nele e qual critério utilizou 
+    para selecionar o grupo de controle;
+- Procure escolher mais indicadores para sua análise;
+
+DÚVIDAS
+ > Base de dados - certo?
+ > Join entre pib e exp. vida é válido?
+ > Gráfico = valors soma_af_aus e soma_af_nao_aus ta dando igual
+ > Escrever no código?
+ > plot pib e exp
+
